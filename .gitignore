@@ -7,6 +7,7 @@
 
 #scripts
 now-review-app.json
+now-staging-app.json
 
 # testing
 /coverage
