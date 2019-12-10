@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+#scripts
+now-review-app.json
+
 # testing
 /coverage
 
